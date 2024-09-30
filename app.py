@@ -4,8 +4,8 @@ import schedule
 import time
 
 # Set API endpoint and credentials
-medium_api_key = "254d9c2b48c46910acbddfdd754ecc057d875db9000b764e298e262f721ed0511"
-google_api_key = "AIzaSyDmn1XHq_cCEluG5bEH37zj6ITy4KFhTCY"  # Replace with your Google API key
+medium_api_key = "YOUR_MEDIUM_API_KEY"
+google_api_key = "YOUR_GOOGLE_API_KEY"  # Replace with your Google API key
 userId = "19e1e4a66a01690cf3a5797425317c758513e89488cf9b7ccea68e62fb03b7a14"
 
 # Set Gemini API key

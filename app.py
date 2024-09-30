@@ -6,7 +6,7 @@ import time
 # Set API endpoint and credentials
 medium_api_key = "YOUR_MEDIUM_API_KEY"
 google_api_key = "YOUR_GOOGLE_API_KEY"  # Replace with your Google API key
-userId = "19e1e4a66a01690cf3a5797425317c758513e89488cf9b7ccea68e62fb03b7a14"
+userId = "Your_medium_user_id"
 
 # Set Gemini API key
 genai.configure(api_key=google_api_key)
